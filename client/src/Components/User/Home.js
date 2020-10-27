@@ -57,6 +57,7 @@ const Home = ({ displaysignup, displaylogin, onRegistered, onLogin }) => {
                 </defs>
             </svg>
 
+
             <section class="page-section bg-light" id="team">
                 <div class="container" id="contact">
                     <div class="text-center">
@@ -100,6 +101,7 @@ const Home = ({ displaysignup, displaylogin, onRegistered, onLogin }) => {
                     </div>
                 </div>
             </section>
+
 
             <div class="py-5">
                 <div class="container">
